@@ -1,7 +1,7 @@
 ﻿#!/bin/sh
 
 #请修改为自己的UUID
-export UUID=c1701993-4b10-4c39-b19a-21e82dc1e7f6
+export UUID=710c24f5-2299-40c6-888b-b27eaf5f8d60
 
 #请修改为自己设置的伪装站，不要带https://
 export ProxySite=www.bing.com
